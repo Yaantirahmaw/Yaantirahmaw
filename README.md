@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yaantirahmaw
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning javascript
-- 📫 Reach me on Gmail @yaantirahmaw@gmail.com
+- 🌱 I’m currently learning Go-Lang
+- 📫 Reach me on Gmail yaantirahmaw@gmail.com
 
 <!---
 Yaantirahmaw/Yaantirahmaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
