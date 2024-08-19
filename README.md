@@ -1,9 +1,17 @@
-- 👋 Hi, I’m @Yaantirahmaw
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning Go-Lang
-- 📫 Reach me on Gmail yaantirahmaw@gmail.com
+# Hello, I'm [Yanti](https://github.com/Yaantirahmaw) 👋
 
-<!---
-Yaantirahmaw/Yaantirahmaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+I'm a passionate software developer who loves building innovative solutions. I specialize in:
+
+- **Languages**: Go, Python, JavaScript
+- **Technologies**: Docker, Kubernetes, PostgreSQL
+- **Interests**: Backend Development, QA Engineering, and Entrepreneurship
+
+## 🛠️ Skills
+- **Languages**: Go 🚀, Python 🐍, JavaScript 🌟
+- **Frameworks**: Django, Flask, Express
+- **Tools**: Git, Docker, Jenkins
+
+## 🌐 Connect with Me
+- [LinkedIn](www.linkedin.com/in/yanti-rahmawati-03148a235)
+- [Twitter](https://x.com/cammelCasee)
